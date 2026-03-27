@@ -236,16 +236,6 @@ For more details, see **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
 
 ---
 
-## 👥 Join the Community
-
-Be part of a growing network of **AI tinkerers**, **indie hackers**, and **full-stack dreamers**:
-
-- 🧵 Reddit: [r/alifullstackbuilders](https://www.reddit.com/user/alifullstackbuilder/)
-- 🐦 Twitter/X: [@alifullstack](https://x.com/AliFullStackAI) _(coming soon)_
-- 🌐 Website: [alifullstack.alitech.io](https://alifullstack.alitech.io)
-
----
-
 ## 🤝 Contribute to AliFullStack
 
 AliFullStack is **Apache 2.0 licensed** and open to contributors!
@@ -271,16 +261,6 @@ Be the first to know about:
 - 🚀 Launches
 
 📧 Subscribe via the [website](https://alifullstack.alitech.io) or follow us on [Reddit](https://www.reddit.com/r/alifullstackbuilders/).
-
----
-
-## 🔗 Useful Links
-
-- 💻 [Live Demo / Docs]- Coming Soon
-- 📥 [Download] - Coming Soon
-- 🧑‍💻 [Contribute](./CONTRIBUTING.md)
-- ⭐ [Star on GitHub](https://github.com/SFARPak/AliFullStack)
-- 🧵 [Reddit Community](https://www.reddit.com/r/alifullstackbuilders/)
 
 ---
 
