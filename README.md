@@ -4,9 +4,9 @@
 
 > ✅ 100% Local | 🚀 LLM-Powered | 🧠 BYO AI API Key | 🧩 Framework-Agnostic | 💡 Open Source
 
-Inspired by tools like _Lovable_, _v0.dev_, and _Bolt_, but with no lock-in or cloud dependency. Built on top of [AliFullStack](https://github.com/alifullstack-sh/alifullstack), AliFullStack gives you the power of AI without sacrificing control.
+Inspired by tools like _Lovable_, _v0.dev_, and _Bolt_, but with no lock-in or cloud dependency. Built on top of [AliFullStack](https://github.com/MSI-DEV/alifullstack), AliFullStack gives you the power of AI without sacrificing control.
 
-![AliFullStack Screenshot](https://github.com/user-attachments/assets/f6c83dfc-6ffd-4d32-93dd-4b9c46d17790)
+![AliFullStack Screenshot]
 
 <!-- 🌐 **Live Demo & Docs**: [alifullstack.alitech.io](https://alifullstack.alitech.io) -->
 
@@ -14,7 +14,7 @@ Inspired by tools like _Lovable_, _v0.dev_, and _Bolt_, but with no lock-in or c
 
 AliFullstack builds on top of other awesome open-source projects:
 
-- [AliFullStack](https://github.com/alifullstack-sh/alifullstack)
+- [AliFullStack](https://github.com/MSI-DEV/alifullstack)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [React](https://github.com/facebook/react)
 - [NextJS](https://github.com/vercel/next.js) -[Vue](https://github.com/vuejs/core)
